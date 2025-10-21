@@ -19,6 +19,8 @@ Dulcinea (1):
 Judith (2):
 Mya (3):
 Nadia (4):
-Abby (5):
+Abby (5): In charge of graphs showing the ordering of countries' GNI and exchange rates over the last 50, 25, 10, 5 years. Also, will visualize overall data related to GNI and exchange rates based on inital analysis done by Judith and Mya.
+
+Everyone will write documentation and part of the report related to their code. Additionally, everyone will upload their code to GitHub and do the part of the video related to their code. 
 
 Conclusion:
