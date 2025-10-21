@@ -18,7 +18,7 @@ Team Contributions:
 Dulcinea (1):
 Judith (2):
 Mya (3):
-Nadia (4):
+Nadia (4): In charge of overall visualizations. Graphs related country specifics from Dulcinea (person 1) such as change in exchange rates over last 50 years per country, GNI over last 50 years per country. 
 Abby (5): In charge of graphs showing the ordering of countries' GNI and exchange rates over the last 50, 25, 10, 5 years. Also, will visualize overall data related to GNI and exchange rates based on inital analysis done by Judith and Mya.
 
 Everyone will write documentation and part of the report related to their code. Additionally, everyone will upload their code to GitHub and do the part of the video related to their code. 
