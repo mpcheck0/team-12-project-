@@ -16,7 +16,7 @@ Dataset: Global Economy Indicators (Also in repository)
 
 Team Contributions:
 Dulcinea (1):
-Judith (2):
+Judith (2): Will write Python code to analyze the Gross National Income (GNI) across countries and identify trends in GNI growth over the last 50, 25, 10, and 5 years. The data will be divided into 5 year intervals, with each interval representing the average GNI during that period. This will help reveal which continents are experiencing increases or decreases in their GNI, as well as the rate of change over time. Finally, I will plot the results as a histogram to visualize how quickly the GNI has changed over time across different continents. 
 Mya (3):
 Nadia (4):
 Abby (5): In charge of graphs showing the ordering of countries' GNI and exchange rates over the last 50, 25, 10, 5 years. Also, will visualize overall data related to GNI and exchange rates based on inital analysis done by Judith and Mya.
