@@ -18,7 +18,7 @@ Team Contributions:
 Dulcinea (1):
 Judith (2): Will write Python code to analyze the Gross National Income (GNI) across countries and identify trends in GNI growth over the last 50, 25, 10, and 5 years. 
 The data will be divided into 5 year intervals, with each interval representing the average GNI during that period. This will help reveal which continents are experiencing
-increases or decreases in their GNI, as well as the rate of change over time. Finally, I will plot the results as a histogram to visualize how quickly the GNI has changed
+increases or decreases in their GNI, as well as the rate of change over time. Finally, I will plot the results as a histogram to visualize how quickly the GNI has changed 
 over time across different continents. 
 Mya (3):
 Nadia (4):
