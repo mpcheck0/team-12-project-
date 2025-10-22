@@ -15,8 +15,6 @@ Dataset: Global Economy Indicators (Also in repository)
 
 
 Team Contributions:
-Dulcinea (1): Import the file onto MATLAB. In charge of any cleaning that needs to be done, and calculates the count, mean, standard deviation, minimum, median, maximum, and the sum for each column and each country.
-Judith (2):
 Mya (3):
 Nadia (4):
 Abby (5): In charge of graphs showing the ordering of countries' GNI and exchange rates over the last 50, 25, 10, 5 years. Also, will visualize overall data related to GNI and exchange rates based on inital analysis done by Judith and Mya.
