@@ -15,7 +15,7 @@ Dataset: Global Economy Indicators (Also in repository)
 
 
 Team Contributions:
-Dulcinea (1):
+Dulcinea (1): Import the file onto MATLAB. In charge of any cleaning that needs to be done, and calculates the count, mean, standard deviation, minimum, median, maximum, and the sum for each column and each country.
 Judith (2):
 Mya (3):
 Nadia (4):
