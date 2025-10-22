@@ -20,7 +20,7 @@ Judith (2): I will write Python code to analyze the Gross National Income (GNI) 
 The data will be divided into 5 year intervals, with each interval representing the average GNI during that period. This will help reveal which continents are experiencing 
 increases or decreases in their GNI, as well as the rate of change over time. Finally, I will plot the results as a histogram to visualize how quickly the GNI has changed 
 over time across different continents. 
-Mya (3):
+Mya (3): In charge of Specific statisitcs that involve data manipulation . I will be tracking currency exchanges rates over the last 50 years. I will then order them highest to lowest over the last 50,25,10,5 years I will do this for both kinds of exchange rates.
 Nadia (4): In charge of overall visualizations. Graphs related country specifics from Dulcinea (person 1) such as change in exchange rates over last 50 years per country, GNI over last 50 years per country. 
 Abby (5): In charge of graphs showing the ordering of countries' GNI and exchange rates over the last 50, 25, 10, 5 years. Also, will visualize overall data related to GNI and exchange rates based on inital analysis done by Judith and Mya.
 
