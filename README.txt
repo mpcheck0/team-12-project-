@@ -22,7 +22,7 @@ increases or decreases in their GNI, as well as the rate of change over time. Fi
 over time across different continents. 
 Mya (3): In charge of Specific statisitcs that involve data manipulation . I will be tracking currency exchanges rates over the last 50 years. I will then order them highest to lowest over the last 50,25,10,5 years I will do this for both kinds of exchange rates.
 Nadia (4): In charge of overall visualizations. Graphs related country specifics from Dulcinea (person 1) such as change in exchange rates over last 50 years per country, GNI over last 50 years per country. 
-Abby (5): In charge of graphs showing the ordering of countries' GNI and exchange rates over the last 50, 25, 10, 5 years. Also, will visualize overall data related to GNI and exchange rates based on inital analysis done by Judith and Mya.
+Abby (5): In charge of integrating code from other team members, transferring it to Python, and integrating the final code into Streamlit. Must make sure that all sections of the code are compatible with each other and with the Streamlit system, and that all sections are in the same language (Python).
 
 Everyone will write documentation and part of the report related to their code. Additionally, everyone will upload their code to GitHub and do the part of the video related to their code. 
 
