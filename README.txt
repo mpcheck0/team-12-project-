@@ -12,6 +12,7 @@ provides consistent economic indicators, spanning over five decades, among many 
 can be utilized by policymakers, economists, and those investing capital to encourage equitable growth in global development and more data-aided financial decisions. 
 
 Dataset: Global Economy Indicators (Also in repository)
+Streamlit: https://group12-mq38dxtf5rlvqfdtta6gko.streamlit.app/
 
 
 Team Contributions:
